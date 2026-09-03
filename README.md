@@ -13,6 +13,7 @@ I'm a Software Engineering student interested in building across AI, full-stack,
 - 95% target-detection accuracy across varying lighting conditions
 - 21% improvement in processing efficiency
 - 30+ pytest cases identifying 15+ defects across motor control and vision
+  
 
 **Sales & Operations Tracker** — Built an offline full-stack application for transaction management, role-based access, data persistence, and automated business reporting.
 
@@ -21,6 +22,7 @@ I'm a Software Engineering student interested in building across AI, full-stack,
 - Built REST-style APIs and relational database workflows for sales, payments, products and transaction history
 - Tested and debugged data consistency across the frontend, Flask API, and SQLite database
 - Automated business reporting and Excel exports using SQL aggregation and OpenPyXL
+
 
 **AI Nutrition Coach** — Food photo analysis, macro tracking, activity logging, and voice-based AI coaching  
 Built in 24 hours @ UTRAHacks  

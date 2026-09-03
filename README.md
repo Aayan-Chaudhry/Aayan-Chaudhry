@@ -25,8 +25,7 @@ I'm a Software Engineering student interested in building across AI, full-stack,
 <br>
 
 **AI Nutrition Coach** — Food photo analysis, macro tracking, activity logging, and voice-based AI coaching  
-Built in 24 hours @ UTRAHacks  
-`JavaScript` `Node.js` `Express.js` `MongoDB` `OpenRouter` `ElevenLabs`
+Built in 24 hours @ UTRAHacks  `JavaScript` `Node.js` `Express.js` `MongoDB` `OpenRouter` `ElevenLabs`
 
 ---
 

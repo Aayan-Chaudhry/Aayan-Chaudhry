@@ -7,7 +7,6 @@ I'm a Software Engineering student interested in building across AI, full-stack,
 ## 🚀 Projects
 
 **Autonomous Quadruped Robot** — Developed C firmware for a 16-servo quadruped with real-time wireless control, then extended the platform with computer vision and obstacle avoidance.
-
 `C` `Python` `OpenCV` `Arduino` `pytest`
 
 - 95% target-detection accuracy across varying lighting conditions
@@ -17,7 +16,6 @@ I'm a Software Engineering student interested in building across AI, full-stack,
 <br>
 
 **Sales & Operations Tracker** — Built an offline full-stack application for transaction management, role-based access, data persistence, and automated business reporting.
-
 `Python` `Flask` `JavaScript` `HTML` `CSS` `SQLite` `OpenPyXL`
 
 - Built REST-style APIs and relational database workflows for sales, payments, products and transaction history
